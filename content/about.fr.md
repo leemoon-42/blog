@@ -8,7 +8,11 @@ description: "Tout sur moi, mes hobbies et mes passions."
 
 <img class="center" src="../images/profile.jpg" alt="Leemoon-42">
 
-Salut, moi c'est **Leemoon-42**. *(complète ta bio ici : ton nom, ton parcours, tes études, ce qui t'a amené à la cyber et à ce blog)*
+Hi ! Moi c'est **leemoon42**, **hacker-junior**.
+
+Code et apprend en freelance.
+
+Hack, juste pour le fun.
 
 Je suis passionné(e) par la **cybersécurité** et j'adore apprendre par la pratique, que ce soit dans un labo, en ligne ou sur un challenge de hacking éthique.
 
@@ -49,3 +53,4 @@ Je me concentre surtout sur l'**expérimentation**, et j'aime appliquer ce que j
 ## Me contacter
 
 - **Discord** : `leemoon42`
+- **Email** : elykhen8@gmail.com

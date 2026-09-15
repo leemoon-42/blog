@@ -8,7 +8,11 @@ description: "All about me, my hobbies and my passions."
 
 <img class="center" src="../images/profile.jpg" alt="Leemoon-42">
 
-Hi, I'm **Leemoon-42**. *(fill in your bio here: your name, background, studies, what brought you to cybersecurity and this blog)*
+Hi! I'm **leemoon42**, **hacker-junior**.
+
+Code and learn as a freelancer.
+
+Hack, just for fun.
 
 I'm passionate about **cybersecurity** and I love learning by doing, whether in a lab, online, or on an ethical hacking challenge.
 
@@ -49,3 +53,4 @@ I focus mostly on **experimentation**, and I like to apply what I learn in **fre
 ## Contact me
 
 - **Discord**: `leemoon42`
+- **Email**: elykhen8@gmail.com
