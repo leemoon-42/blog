@@ -42,7 +42,7 @@ pagination.pagerSize = 5
 
       [languages.fr.params.logo]
         logoText = "A Ghost Diaries"
-        logoHomeLink = "/"
+        logoHomeLink = ""
 
       [languages.fr.menu]
         [[languages.fr.menu.main]]
@@ -76,7 +76,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "A Ghost Diaries"
-        logoHomeLink = "/"
+        logoHomeLink = ""
 
       [languages.en.menu]
         [[languages.en.menu.main]]
