@@ -14,7 +14,7 @@ Code et apprend en freelance.
 
 Hack, juste pour le fun.
 
-Je suis passionné(e) par la **cybersécurité** et j'adore apprendre par la pratique, que ce soit dans un labo, en ligne ou sur un challenge de hacking éthique.
+Je suis passionné par la **cybersécurité** et j'adore apprendre par la pratique, que ce soit dans un labo, en ligne ou sur un challenge de hacking éthique.
 
 ## Mes hobbies
 
