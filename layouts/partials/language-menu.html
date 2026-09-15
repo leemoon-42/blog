@@ -1,0 +1,14 @@
+<ul class="menu menu--desktop menu--language-selector">
+  <li class="menu__trigger">{{ .Language.LanguageName }}&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      {{ $translations := .AllTranslations }}
+      {{ if lt (len $translations) 2 }}
+        {{ $translations = $.Site.Home.AllTranslations }}
+      {{ end }}
+      {{ range $translations }}
+        <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+      {{ end }}
+    </ul>
+  </li>
+</ul>
