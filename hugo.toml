@@ -1,0 +1,90 @@
+baseURL = '/'
+title = 'A Ghost Diaries'
+theme = 're-terminal'
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = false
+pagination.pagerSize = 5
+
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "red"
+  favicon = "images/favicon.png"
+  showMenuItems = 2
+  showLanguageSelector = true
+  fullWidthTheme = false
+  centerTheme = false
+  autoCover = false
+  showLastUpdated = false
+
+[languages]
+  [languages.fr]
+    languageCode = 'fr-fr'
+    languageName = "Français"
+    weight = 1
+
+    [languages.fr.params]
+      languageName = "Français"
+      title = "A Ghost Diaries"
+      subtitle = "Bienvenue sur mon blog."
+      copyright = "Leemoon-42"
+      menuMore = "Afficher plus"
+      readMore = "Lire la suite"
+      newerPosts = "Articles plus récents"
+      olderPosts = "Articles plus anciens"
+      missingContentMessage = "Page non trouvée..."
+      missingBackButtonLabel = "Retour à l'accueil"
+      minuteReadingTime = "min de lecture"
+      words = "mots"
+
+      [languages.fr.params.logo]
+        logoText = "A Ghost Diaries"
+        logoHomeLink = "/"
+
+      [languages.fr.menu]
+        [[languages.fr.menu.main]]
+          identifier = "all"
+          name = "My papers"
+          pageRef = "/posts/"
+
+        [[languages.fr.menu.main]]
+          identifier = "about"
+          name = "À propos"
+          pageRef = "/about/"
+
+  [languages.en]
+    languageCode = 'en-us'
+    languageName = "English"
+    weight = 2
+
+    [languages.en.params]
+      languageName = "English"
+      title = "A Ghost Diaries"
+      subtitle = "Welcome to my blog."
+      copyright = "Leemoon-42"
+      menuMore = "Show more"
+      readMore = "Read more"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "A Ghost Diaries"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "all"
+          name = "My papers"
+          pageRef = "/en/posts/"
+
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About Me"
+          pageRef = "/en/about/"

@@ -1,0 +1,13 @@
+body {
+  background-color: var(--background);
+  background-image: url('images/site-bg.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container,
+.container .menu {
+  background: color-mix(in srgb, var(--background) 90%, transparent 10%);
+}
